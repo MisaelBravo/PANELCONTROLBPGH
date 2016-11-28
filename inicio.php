@@ -51,7 +51,7 @@
         <div id="tabs_1_content" class="uk-switcher">
          <div id="contenido_Inicio"><!-- Contenido de Pesta? Inicio -->
           <!-- indicadores -->
-          <div class="uk-grid uk-grid-width-large-1-4 uk-grid-width-medium-1-2 uk-grid-medium " data-uk-grid-margin>
+          <div class="uk-grid uk-grid-width-large-1-3 uk-grid-width-medium-1-2 uk-grid-medium " data-uk-grid-margin>
             <div>
                 <div class="md-card">
                  <div class="md-card-content">
@@ -82,7 +82,7 @@
                   </div>
                  </div>
             </div>
-            <div>
+            <!--<div>
                  <div class="md-card">
                   <div class="md-card-content">
                    <div class="md-list-content-horizontal">
@@ -91,7 +91,7 @@
                    </div>
                   </div>
                  </div>
-            </div>
+            </div>-->
           </div>
           <div class="md-card"><br/>
            <div class="md-card-content">
